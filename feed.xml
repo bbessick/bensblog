@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Ben&#x27;s Blog</title>
+    <link href="https://bbessick.github.io/bensblog/feed.xml" rel="self" />
+    <link href="https://bbessick.github.io/bensblog" />
+    <updated>2020-04-25T09:58:48-07:00</updated>
+    <author>
+        <name>Ben Bessick</name>
+    </author>
+    <id>https://bbessick.github.io/bensblog</id>
+
+    <entry>
+        <title>A New Beginning...</title>
+        <author>
+            <name>Ben Bessick</name>
+        </author>
+        <link href="https://bbessick.github.io/bensblog/a-new-beginning.html"/>
+        <id>https://bbessick.github.io/bensblog/a-new-beginning.html</id>
+
+        <updated>2020-04-25T09:49:04-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test of a new way of doing the web stuffs. A powerful new tool in the arsenal of designers and developers everywhere.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                This is a test of a new way of doing the web stuffs. A powerful new tool in the arsenal of designers and developers everywhere.
+            ]]>
+        </content>
+    </entry>
+</feed>

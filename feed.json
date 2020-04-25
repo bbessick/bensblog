@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ben&#x27;s Blog",
+    "description": "",
+    "home_page_url": "https://bbessick.github.io/bensblog",
+    "feed_url": "https://bbessick.github.io/bensblog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ben Bessick"
+    },
+    "items": [
+        {
+            "id": "https://bbessick.github.io/bensblog/a-new-beginning.html",
+            "url": "https://bbessick.github.io/bensblog/a-new-beginning.html",
+            "title": "A New Beginning...",
+            "summary": "This is a test of a new way of doing the web stuffs. A powerful new tool in the arsenal of designers and developers everywhere.",
+            "content_html": "This is a test of a new way of doing the web stuffs. A powerful new tool in the arsenal of designers and developers everywhere.",
+            "author": {
+                "name": "Ben Bessick"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-25T09:49:04-07:00",
+            "date_modified": "2020-04-25T09:49:04-07:00"
+        }
+    ]
+}
